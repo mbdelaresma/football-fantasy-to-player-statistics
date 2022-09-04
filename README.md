@@ -2,7 +2,7 @@
 
 Data Mining and Wrangling Course Submission
 
-See full report [HERE]()
+See full report [HERE](https://github.com/mbdelaresma/football-fantasy-to-player-statistics/blob/main/FinalReport.ipynb)
 
 ![image](https://user-images.githubusercontent.com/71246479/188296990-208dd4e4-5c3f-4d1e-8495-8ea30a3e67c6.png)
 
